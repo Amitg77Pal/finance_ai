@@ -15,11 +15,11 @@ The goal of this system is to reduce financial stress and improve transparency i
   
   Shows fee breakdown by categories such as:<br/>
 
-    Tuition<br/>
+    Tuition
     
-    Hostel<br/>
+    Hostel
     
-    Transport<br/>
+    Transpor
     
     Scholarships / Discounts
 <br/>
