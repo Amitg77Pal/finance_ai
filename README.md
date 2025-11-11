@@ -2,7 +2,7 @@
 <br/>
 Demo accounts: parent1@example.com / password123
 <br/>
-✅ Project Description — Finance AI Assistant (University/School Fee Management System)<br/>
+✅ Project Description — Finance AI Assistant (University/School Fee Management System) for the Parents<br/>
 
 Finance AI Assistant is a full-stack finance management and AI-powered assistant designed to help parents or guardians track, manage, and analyze students’ fee payments in<br/> educational institutions. The system gives a clear overview of financial dues, past payments, upcoming fees, and personalized insights using AI.<br/>
 
