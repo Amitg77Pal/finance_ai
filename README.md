@@ -78,6 +78,7 @@ Provides quick visualization of monthly/annual payments.
 
    ## Dashboard Preview
 
-![Finance AI Assistant Dashboard](https://github.com/your-username/your-repo-name/blob/main/images/dashboard.png)
+<img width="973" height="863" alt="Screenshot 2025-11-16 190218" src="https://github.com/user-attachments/assets/f24650ab-6eb2-4051-a472-5499ede3ce36" />
+
 
 
