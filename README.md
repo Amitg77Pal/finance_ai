@@ -75,3 +75,6 @@ Provides quick visualization of monthly/annual payments.
     AI Layer -	Google Gemini AI via LangChain<br/>
     Authentication -	JWT-based auth with user profiles<br/>
     File Handling - (Uploads)	Supports PDF, DOC, Image uploads<br/>
+
+    <img width="973" height="863" alt="image" src="https://github.com/user-attachments/assets/4bd8e708-e4f3-460b-971c-3805268d39e6" />
+
